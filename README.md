@@ -36,7 +36,7 @@ Install required packages with:
 ```bash
 pip install -r requirements.txt
 ```
-Required packages:
+Required packages:  
 pandas  
 scipy  
 matplotlib  
@@ -50,7 +50,7 @@ Execute the script with:
 ```bash
 python ab_test_analysis.py
 ```
-It will:
+It will:  
 1.Load and clean the dataset  
 2.Calculate conversion metrics  
 3.Perform t-tests on CTR, cart rate, and purchase rate  
