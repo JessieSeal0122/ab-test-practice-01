@@ -37,10 +37,10 @@ Install required packages with:
 pip install -r requirements.txt
 ```
 Required packages:  
-pandas  
-scipy  
-matplotlib  
-seaborn  
+- pandas  
+- scipy  
+- matplotlib  
+- seaborn  
 
 ---
 
@@ -51,11 +51,11 @@ Execute the script with:
 python ab_test_analysis.py
 ```
 It will:  
-1.Load and clean the dataset  
-2.Calculate conversion metrics  
-3.Perform t-tests on CTR, cart rate, and purchase rate  
-4.Generate a grouped bar chart  
-5.Save a summary image and log file  
+1. Load and clean the dataset  
+2. Calculate conversion metrics  
+3 .Perform t-tests on CTR, cart rate, and purchase rate  
+4. Generate a grouped bar chart  
+5. Save a summary image and log file  
 
 ---
 
