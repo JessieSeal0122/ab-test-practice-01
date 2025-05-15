@@ -1,0 +1,15 @@
+📄 A/B Test Execution Log
+========================================
+🕒 Run Time: 2025-05-15 15:15:14
+⏱️ Elapsed Time: 0.29 seconds
+
+📊 T-Test Results:
+          Metric  Control Mean  Test Mean  T-Statistic  P-Value
+             CTR        0.0510     0.1024      -3.9219   0.0002
+Add_to_Cart_Rate        0.7779     0.5151       2.9922   0.0041
+   Purchase_Rate        0.4572     0.6179      -2.7861   0.0072
+
+📁 Chart saved at:
+C:\Users\A5735\Python\ab_test_project\conversion_rate_comparison_all.png
+
+✅ Analysis completed successfully.
