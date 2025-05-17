@@ -1,3 +1,5 @@
+🧪 Analyze A/B test results for marketing campaigns using Python and t-tests.
+
 # A/B Test Practice 01 - Marketing Campaign Analysis
 
 This repository is part of my A/B testing self-practice series.  
