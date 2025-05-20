@@ -9,7 +9,7 @@ import time
 start_time = time.time()
 
 # === 1. Data folder path ===
-DATA_DIR = r"C:\Users\A5735\Python\ab_test_project\data"  # ← Adjust this path
+DATA_DIR = r"C:\Users\Python\ab_test_project\data"  # ← Adjust this path
 
 # === 2. Read and clean column names ===
 def load_and_clean(filepath, group_label):
